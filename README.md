@@ -122,4 +122,4 @@ Feel free to:
 - 📥 Contribute through Pull Requests
 
 ## Author
-> Excel Dashboard created by **Dania Farooq**  
+> Excel Dashboard created by **[Dania Farooq](https://www.linkedin.com/in/daniafarooq/)**  
